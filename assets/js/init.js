@@ -15,7 +15,7 @@
       });
     });
 
-    var countDownDate = new Date("Oct 1, 2017 22:00:00").getTime();
+    var countDownDate = new Date("Mar 23, 2018 00:00:00").getTime();
 
     // Update the count down every 1 second
     var x = setInterval(function() {
